@@ -6,7 +6,7 @@ rows = list(map(lambda x: x.replace('\n', ''), inputs))
 
 # exemple
 # rows = ['abc', '', 'a', 'b', 'c', '', 'ab',
-#         'ac', '', 'a', 'a', 'a', 'a', '', 'b', '']
+#         'ac', '', 'a', 'a', 'a', 'a', '', 'b', ''] 
 
 groupAnswers = []
 draftGroupAnswers = []
